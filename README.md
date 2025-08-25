@@ -1,6 +1,6 @@
 # 💰 Calculadora de Juros
 
-![Interface da Aplicação](imagens/app.png)
+![Interface da Aplicação](https://github.com/Felipeflskater/Calculadora-de-Juros/blob/master/imagens/App.png?raw=true)
 
 Aplicação desktop desenvolvida em **Delphi 7 (Object Pascal)** para calcular o valor total de uma conta com juros, considerando a data de vencimento e a data de pagamento.
 
