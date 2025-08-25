@@ -40,11 +40,10 @@ O sistema aplica um **juro fixo diário** ao valor da conta, caso o pagamento se
 ## 🐧 Compatível com Linux?
 
 Sim! O aplicativo foi testado com sucesso no **Linux** usando:
-- **Wine**
-- **Proton**
-- **Bottles** (recomendado para melhor experiência)
+- **Wine/Proton**
+- **Bottles** utilizando a configuração ¨Aplicativo¨ (recomendado para melhor experiência)
 
-👉 Basta baixar o `.exe` e executar dentro do Bottles ou via Wine.
+👉 Basta baixar o `.exe` e executar dentro do Bottles ou outro gerenciador Wine.
 
 ---
 
